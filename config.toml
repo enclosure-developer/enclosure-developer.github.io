@@ -1,17 +1,17 @@
-baseURL = "http://example.com/"
+baseURL = "https://enclosure-developer.github.io/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+title = "Enclosure"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "Enclosure: A Multiplayer Mini-game"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "Gary Chen"
+    email = "chenhhgary@gmail.com"
 
-[Social]
-    twitter = "stream_running"
+# [Social]
+#     twitter = "stream_running"
