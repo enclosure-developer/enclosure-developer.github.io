@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "Enclosure: A Multiplayer Mini-game"
+    description = "Enclosure: 一个多人迷你游戏 | A Multiplayer Mini-game"
 
 [Author]
     name = "Gary Chen"

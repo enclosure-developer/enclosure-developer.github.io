@@ -1,11 +1,13 @@
 ---
-title: "Links"
+title: "下载 Download"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## 下载 Enclosure
 
-You can download Grayscale for free from the Github page.
+你可以通过下面的链接，从GitHub免费下载体验**Enclosure**。
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+You can download **Enclosure** for free from the GitHub page.
+
+{{< big-button text="下载 | Download" href="https://github.com/enclosure-developer/enclosure/releases" >}}

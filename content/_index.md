@@ -1,9 +1,9 @@
 ---
-title: "Hugo Grayscale Theme"
-date: 2018-09-09T00:00:00-00:00
-copyright: "Your Website"
-description: "A port of the Grayscale theme to Hugo"
+title: "Enclosure"
+date: 2021-08-05T00:00:00-00:00
+copyright: "Enclosure"
+description: "Enclosure: 一个多人迷你游戏 | A Multiplayer Mini-game"
 
 menu:
-    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+    - {url: "https://github.com/enclosure-developer/enclosure/", name: "GitHub"}
 ---
