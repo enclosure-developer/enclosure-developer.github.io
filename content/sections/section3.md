@@ -9,13 +9,13 @@ weight: 4
 
 You can access the GitHub profiles of the four developer from the link below. You can find their emails and links to their personal homepages.
 
-{{< big-button text="陈泓昊" href="https://github.com/Chen-Gary" >}}
+{{< big-button text="Honghao Chen" href="https://github.com/Chen-Gary" >}}
 
-{{< big-button text="陈秋泓" href="https://github.com/IceShip423" >}}
+{{< big-button text="Qiuhong Chen" href="https://github.com/IceShip423" >}}
 
-{{< big-button text="胡艺严" href="https://github.com/Timothy-197" >}}
+{{< big-button text="Yiyan Hu" href="https://github.com/Timothy-197" >}}
 
-{{< big-button text="梁雨阳" href="https://github.com/Amehi" >}}
+{{< big-button text="Yuyang Liang" href="https://github.com/Amehi" >}}
 
 ---
 
